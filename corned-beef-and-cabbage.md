@@ -8,8 +8,8 @@ Perfect around St. Patrick's day, when corned beef and cabbage are on sale.
 * 1/2 small cabbage, in wedges
 * 4ish medium potatoes, in cubes
 * 2ish carrots
-- minced garlic
-- 2 tbsp pickling spices (I like McCormick's)
+* minced garlic
+* 2 tbsp pickling spices (I like McCormick's)
 
 ## Directions
 
