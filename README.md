@@ -1,6 +1,6 @@
 # Recipes
 
-This repo contains various kitchen recipes I use. Some of them are family
+This repo contains various (food) recipes I use. Some of them are family
 recipes, some I got and/or adapted from online, and some are my own.
 
 This is a work in progress. Not only in the sense that I'm always trying
