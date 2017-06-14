@@ -11,15 +11,15 @@ Great to bring to barbecues.
 * minced garlic
 * hot peppers. I usually go with 2-3 jalapeños, without seeds, but
   scotch bonnets would be more authentic (but much hotter)
-
+---
 * 1/2 cup soy sauce
 * 1/2 cup white vinegar
 * 1/2 cup vegetable oil. I usually use olive oil
-
+---
 * 2 tbsp brown sugar
 * 1/2 tsp dried thyme
 * 2 tsp jerk seasoning (I like Badia's best)
-
+---
 * 1 1/2 lb skinless, boneless chicken breasts
 
 ## Directions
