@@ -7,7 +7,14 @@ The kind you should mop up with some bread.
 
 ## Ingredients
 
+Meat and coating:
 * 2-2.5 lbs lamb / mutton stew meat
+* 1 tsp salt
+* 1/2 tsp pepper
+* 1 tsp thyme
+* 1/2 cup flour
+
+Vegetables and seasoning:
 * 1 onion, chopped
 * 4ish potatoes, in cubes
 * carrots
@@ -15,12 +22,6 @@ The kind you should mop up with some bread.
 * minced garlic
 * 2 tbsp olive oil
 * 2 tbsp worcestershire sauce
-
-* 1 tsp salt
-* 1/2 tsp pepper
-* 1 tsp thyme
-* 1/2 cup flour
-
 * beef broth, to cover (4 cups should do it)
 
 ## Directions
