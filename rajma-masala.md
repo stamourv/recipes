@@ -2,14 +2,13 @@
 
 Vegetarian.
 Fairly low effort recipe.
-Aside from cauliflower, all the ingredients can be kept in the pantry,
-which makes this a good "dépanneur" (and frozen cauliflower could make
-this *all* the ingredients).
+All the ingredients can be kept in the pantry (or the freezer) which
+makes this a good "dépanneur".
 
 ## Ingredients
 
 * 3 cans kidney beans, rinced and drained
-* 1/2 head of cauliflower, in small pieces
+* 1/2 head of cauliflower, in small pieces OR 1 bag frozen cauliflower
 * 1 14.5 oz can of diced tomatoes
 * 1 onion, chopped
 * minced garlic
