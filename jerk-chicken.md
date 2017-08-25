@@ -33,6 +33,8 @@ Great to bring to barbecues.
 ## Notes
 
 * Some recipes add lime juice, or cinnamon, or black pepper, etc.
+* Works well with chicken thighs as well.
+* For a vegetarian version, excellent with portobellos. 4 per recipe.
 
 ## Source
 
