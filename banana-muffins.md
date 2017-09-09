@@ -32,6 +32,7 @@ Eat them within a few days, otherwise they get sticky.
 * Can also make it as one big loaf of banana bread.
 * Can add grated zucchini, which changes texture (but not really taste,
   interestingly).
+* Can add cinnamon, or a bit of nutmeg.
 * Can add 2 tbsp ground flax seeds or ground almonds, for a nutty taste.
   Add at the same time as the chocolate chips.
 

@@ -10,7 +10,7 @@ Great for a slightly fancier dinner.
 * 3 tsp grated parmesan
 * 1/2 tsp salt
 * 1/4 tsp pepper
-* 2 eggs
+* 2 eggs, slightly beaten
 * minced garlic
 * 2 tsp water
 * butter or olive oil for cooking
