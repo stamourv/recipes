@@ -7,7 +7,7 @@ it's basically just meat.
 ## Ingredients
 
 * 2 lb ground beef
-* 2 egg
+* 2 eggs
 * 1/2 cup breadcrumbs
 * 1 tsp salt
 * 1 tsp pepper
