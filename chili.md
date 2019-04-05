@@ -15,9 +15,14 @@ Freezes well.
 * 1 green pepper, chopped
 * hot peppers. I usually add 1-2 jalapeños
 * minced garlic
-* 2 tbsp chili powder (I like Badia's)
 * 2 tsp salt
 * 1 tsp pepper
+* 2 tbsp chili powder (I like Badia's) OR the following
+* 1 tbsp (smoked) paprika
+* 1 tsp oregano
+* 1 tsp cumin
+* 1/2 tsp garlic powder
+* 1/2 tsp onion powder
 
 ## Directions
 
@@ -36,3 +41,5 @@ Freezes well.
 
 Originally based on [this recipe](http://allrecipes.com/Recipe/slow-cooked-chili/detail.aspx)
 but much embellished, and made vegetarian.
+
+Chili powder adapted from [this one](https://www.allrecipes.com/recipe/237172/chili-powder/).
