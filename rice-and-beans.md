@@ -1,5 +1,6 @@
 # Rice and Beans
 
+Vegetarian.
 Dead simple recipe for the rice cooker.
 Convenient for packing lunches; a batch makes about two meals.
 Funny enough, tastes better when microwaved.
@@ -7,9 +8,9 @@ Funny enough, tastes better when microwaved.
 ## Ingredients
 
 * 3/4 measure of white rice (using rice cooker measuring cup)
-* 1 can diced tomatoes, drained
-* 1 can pinto beans
-* 3/4 can water
+* 1 14 oz can diced tomatoes, drained
+* 1 14 oz can pinto beans
+* 3/4 14 oz can water
 * garlic
 * 2 tbsp olive oil
 * 1 tbsp tomato paste (optional)
