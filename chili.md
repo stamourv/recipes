@@ -33,9 +33,9 @@ Freezes well.
 
 ## Notes
 
-* Could be good with some cumin.
 * Once tried replacing the ground beef with a *big* can of black beans
- (1 lb 13 oz). It worked ok, but may have been too liquid.
+  (1 lb 13 oz). It worked ok, but may have been too liquid.
+* Could try with some brown sugar or molasses.
 
 ## Source
 
