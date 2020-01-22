@@ -18,6 +18,12 @@ or something.
 * 1 tbsp olive oil
 * ~3 tsp seasoning (I like Trader Joe's 21 Seasoning Salute)
 
+## Directions
+
+* Put everything in the rice cooker. Putting rice and lentils last makes
+  it easier to stir things well.
+* Turn the rice cooker on. Wait until it's done. That's it.
+
 ## Notes
 
 * Fills my rice cooker completely. More would make a mess. You may want
