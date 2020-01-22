@@ -14,12 +14,12 @@ I still can't make it as good as grand-maman, though.
 ## Directions
 
 * Preheat oven to 350F.
-* Pile up sauce, pasta, sauce, pasta, etc., then sauce.
+* Pile up sauce, pasta, sauce, pasta, then sauce.
   If using pre-cooked lasagna, the pasta must be covered in sauce, to
   "cook" properly.
 * In the oven, put a baking tray larger than the lasagna dish, to catch
   spills.
-* Cook covered (aluminum foil works) for 35 mins.
+* Cook covered (aluminum foil works) for 30 mins.
 * Remove cover, add cheese, and cook uncovered until cheese is grilled.
   Can take maybe 20-25 mins. Increasing temp to 400F can help.
 
