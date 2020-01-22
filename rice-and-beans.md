@@ -26,7 +26,7 @@ Funny enough, tastes better when microwaved.
 
 ## Notes
 
-* When making ahead of time, let cool divide into portions, then add the
+* When making ahead of time, let cool, divide into portions, then add the
   cheese. The cheese will melt when reheating.
 * May want to adjust quantities for different rice cookers.
   The above is the most I can fit in mine without a mess.

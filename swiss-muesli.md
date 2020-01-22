@@ -9,7 +9,7 @@ soak and soften, so takes some thinking ahead.
 * 2/3 cup old fashioned oats
 * 1/3 cup plain yogurt
 * 1/3 cup milk
-* dried blueberries (I like Trader Joe's), or other dried fruit or nut
+* dried blueberries (I like Trader Joe's), or other dried fruits or nuts
 * maple syrup, or sweetener of choice
 * extra milk when serving
 
