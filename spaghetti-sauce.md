@@ -11,8 +11,7 @@ spaghetti.
 * 1 onion, chopped
 * 4-5 garlic cloves, minced
 * 1 28 oz can diced tomatoes
-* 1 14 oz can tomato sauce
-* 1 14 oz can italian tomato sauce
+* 1 28 oz can tomato sauce
 * 1 ~6 oz can tomato paste
 * 1 10 oz can tomato soup
 * 3-4 bay leaves
@@ -20,7 +19,6 @@ spaghetti.
 * 1 tsp oregano
 * 1 tsp basil
 * 1 tsp sugar
-* 1/2 tsp crushed red pepper
 
 ## Directions
 
