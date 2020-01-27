@@ -35,3 +35,7 @@ or something.
 * I've read about people starting by heating the oil in the bottom of
   the rice cooker first, then browning the garlic, then adding the rest
   of the ingredients. That sounds delicious and definitely worth trying.
+
+## Source
+
+Improvised, then refined.
