@@ -4,7 +4,7 @@ Vegetarian.
 Takes a bit of work (about an hour) but well worth it.
 The sauce is much better than something pre-made, and grilled
 cheese and breadcrumbs on top is delicious.
-Makes four modest servings.
+Makes four modest servings (or three solid ones).
 
 ## Ingredients
 
@@ -16,13 +16,16 @@ Makes four modest servings.
 * 1 tsp oregano
 * 1 tsp basil
 * 1 tsp thyme
-* 1 28 oz can crushed tomatoes
+* 1/4 tsp red pepper flakes (optional)
+* 1 28 oz can crushed tomatoes OR 1 28 oz can diced tomatoes, blended a little
 * 1 8 oz can tomato sauce
 * 1/2 cup heavy cream
 
 * 4 oz fresh mozzarella
 * panko breadcrumbs
+
 * olive oil
+* grated parmesan (optional)
 
 ## Directions
 
@@ -40,17 +43,19 @@ Makes four modest servings.
   casserole dish.
 * Top the casserole with panko breadcrumbs. You want a lot.
 * Tear the mozzarella into small pieces and spread on the top.
-* Cook for 10-15 minutes, until the cheese and breadcrumbs start to
+* Cook for 15-20 minutes, until the cheese and breadcrumbs start to
   brown.
-* Drizzle some olive oil on top. Let rest 10-15 minutes, then serve.
+* Drizzle some olive oil on top, and add parmesan to taste.
+* Let rest 10-15 minutes, then serve.
 
 ## Notes
 
-* Could add some pancetta or prosciutto for a non-vegerarian version.
-* Can put the garlic separately on top, rather than mixed in the sauce.
-* Original recipe called for saving 1/4 cup of the pasta water.
-  We have more liquid in the form of the tomato sauce, so that makes
-  the casserole a bit too runny.
+* Could add some pancetta or bacon for a non-vegerarian version.
+* Another non-vegetarian option is to add anchovies to the sauce. A couple of
+  fillets adds some depth to the sauce. Careful not to overdo it, though, to
+  not end up with a fishy-tasting sauce.
+* An 8oz container of fresh mozzarella, and a large broccoli (or two small
+  ones) makes for two recipes. So I usually do two batches back to back.
 
 ## Source
 
