@@ -35,6 +35,8 @@ Hearty enough to make a light meal on its own, but best as a starter.
 * Apparently can be frozen, but I haven't tried.
 * Can replace some of the onion with leek.
 * Can substitute oregano with savory.
+* To make heartier, can add some ham or ham bones. Then with some nice
+  bread, becomes a decent light meal.
 
 ## Source
 
