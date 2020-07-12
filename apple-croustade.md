@@ -1,4 +1,4 @@
-# Apple Croustade (AKA Cobbler)
+# Apple Croustade (AKA Crumble)
 
 Great dessert. I'm not a dessert person, yet I make it every apple season.
 Always appreciated at potlucks and parties.
