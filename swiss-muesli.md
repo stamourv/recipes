@@ -1,4 +1,4 @@
-# Swiss Müesli (sic)
+# Swiss Müesli
 
 Nice, filling breakfast.
 Does require preparing it the night before, so the oats have time to
