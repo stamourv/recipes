@@ -15,8 +15,8 @@ or something.
 * 1 14 oz can diced tomatoes
 * minced garlic to taste (lots)
 * 1 tsp salt
-* 1 tbsp olive oil
-* ~3 tsp seasoning (I like Trader Joe's 21 Seasoning Salute)
+* 1-2 tbsp olive oil
+* ~2 tsp seasoning (I like Trader Joe's 21 Seasoning Salute)
 
 ## Directions
 
@@ -28,10 +28,11 @@ or something.
 
 * Fills my rice cooker completely. More would make a mess. You may want
   to adapt for different-sized rice cookers.
-* Could use some broth instead of the water (then may not be vegetarian).
-* Any seasoning could work, really.
-* And other vegetables could work too: corn, green beans, olives, etc.
-  Canned is easier.
+* Any seasoning could work, really. Adding some tomato paste and umami
+  seasoning both work well.
+* In theory, adding other vegetables could be nice. I've tried green
+  beans, corn, and sliced black olives. None of these are as good as
+  plain tomatoes. YMMV.
 * I've read about people starting by heating the oil in the bottom of
   the rice cooker first, then browning the garlic, then adding the rest
   of the ingredients. That sounds delicious and definitely worth trying.
