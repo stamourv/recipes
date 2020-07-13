@@ -19,7 +19,7 @@ Great for a slightly fancier dinner.
 
 * Mix the eggs, the water, and the garlic.
 * Mix the breadcrumbs, parmesan, salt, and pepper.
-* Dip the escalopes in the egg mix, then cover with breadcrumbs.
+* Dip the escalopes in the egg mix, then dredge in breadcrumbs.
 * Cook in a pan with butter or olive oil. Medium-low heat works well, to
   avoid burning them.
 
