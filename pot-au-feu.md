@@ -29,7 +29,7 @@ Especially nice during the winter.
 * Add broth to cover everything.
 * Cook 5-6 hours on high, or 10-12 hours on low.
 
-## Notes
+## Variants
 
 * Could add cabbage, mushrooms, or turnip.
 * Could add red wine, or Worcestershire sauce (3 tbsp should be about right).
