@@ -17,7 +17,7 @@ Great to bring to barbecues.
 * 2 tbsp brown sugar
 * 1/2 tsp dried thyme
 * 2 tsp jerk seasoning (I like Badia's best)
-* 1 1/2 lb skinless, boneless chicken breasts
+* 1 1/2 lb skinless, boneless chicken thighs (breasts are fine too)
 
 ## Directions
 
@@ -26,15 +26,18 @@ Great to bring to barbecues.
 * Mix everything except the chicken into a marinade.
 * Poke the chicken with a fork, to help the marinade.
 * Marinate the chicken for at least a day.
-* Cook however you like. It's great on the grill, but the oven (350F for
-  30ish mins, with the marinade) works too. Tends to be dry when cooked
-  in a pan.
+* Cook however you like.
 
 ## Notes
 
+* It's great on the grill, but the oven (350F for 30ish mins, with the
+  marinade) works too. Tends to be dry when cooked in a pan.
+
+## Variants
+
 * Some recipes add lime juice, or cinnamon, or black pepper, etc.
-* Works well with chicken thighs as well.
 * For a vegetarian version, excellent with portobellos. 4 per recipe.
+  Goes great with halloumi cheese for a bit of extra protein.
 
 ## Source
 
