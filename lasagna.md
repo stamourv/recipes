@@ -23,8 +23,6 @@ I still can't make it as good as grand-maman, though.
 * Remove cover, add cheese, and cook uncovered until cheese is grilled.
   Can take maybe 20-25 mins. Increasing temp to 400F can help.
 
-TODO
-
 ## Notes
 
 * Could use non-pre-cooked lasagna, but would be more tedious to make.
