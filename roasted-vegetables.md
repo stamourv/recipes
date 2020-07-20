@@ -27,12 +27,6 @@ Goes with pretty much any dish, really.
 * Roast for ~25 minutes, until some of the edges are crispy and the
   pieces are tender.
 
-## Notes
-
-* Goes well with cole slaw or roasted vegetables, and some nice bread
-  or potatoes. For whatever reason, I don't tend to eat it as a
-  sandwich.
-
 ## Variants
 
 * Other vegetables could work too. Other hardy ones like squash would

@@ -42,9 +42,6 @@ Worth always having in the freezer to whip up a quick meal.
 * Goes well with cole slaw or roasted vegetables, and some nice bread
   or potatoes. For whatever reason, I don't tend to eat it as a
   sandwich.
-
-## Variants
-
 * In a pinch, you can replace the homemade barbecue sauce with store-
   bought. Not as satisfying though.
 
