@@ -6,8 +6,7 @@ Freezes well.
 
 ## Ingredients
 
-* 2 lb ground beef OR 2 cups TVP (measured dried, then rehydrated)
-  OR 1 pack Trader Joe's soy-based ground beef replacement (found refrigerated)
+* 1 pack Trader Joe's "beefless ground beef"
 * 2 cans kidney beans, rinsed and drained
 * 2 14.5 oz cans diced tomatoes, undrained
 * 1 8 oz can tomato sauce
@@ -33,8 +32,18 @@ Freezes well.
 
 ## Notes
 
-* Once tried replacing the ground beef with a *big* can of black beans
-  (1 lb 13 oz). It worked ok, but may have been too liquid.
+* The ground beef replacement (seasoned TVP?) works really well here!
+  There's enough flavor, and with a slow cook, it gets really tasty.
+  Could even add some umami seasoning to make it even closer to beef.
+
+## Variants
+
+* This recipe is pretty flexible on the protein; there's enough flavors
+  from the rest. The original version used 2lb ground beef, which is
+  good. But 1lb may be enough. Rehydrated TVP could also possibly work.
+  I once tried going with extra beans (28oz black beans) but the result
+  was too soupy.
+
 * Could try with some brown sugar or molasses.
 
 ## Source
