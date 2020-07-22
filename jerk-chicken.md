@@ -9,8 +9,7 @@ Great to bring to barbecues.
 * 3 scallions, chopped
 * 1 onion, chopped
 * minced garlic
-* hot peppers. I usually go with 2-3 jalapeños, without seeds, but
-  scotch bonnets would be more authentic (but much hotter)
+* 2-3 jalapeños, deseeded seeds
 * 1/2 cup soy sauce
 * 1/2 cup white vinegar
 * 1/2 cup vegetable oil. I usually use olive oil
@@ -35,9 +34,13 @@ Great to bring to barbecues.
 
 ## Variants
 
-* Some recipes add lime juice, or cinnamon, or black pepper, etc.
+* Scotch bonnet peppers would be much more authentic, but they're harder
+  to find, and also MUCH hotter than jalapeños.
 * For a vegetarian version, excellent with portobellos. 4 per recipe.
   Goes great with halloumi cheese for a bit of extra protein.
+* Some recipes add lime juice, or cinnamon, or black pepper, etc.
+* Could use a different, more flavorful vinegar. But with so much other
+  flavors going on, not sure it would be noticeable.
 
 ## Source
 

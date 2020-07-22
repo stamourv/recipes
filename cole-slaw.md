@@ -6,12 +6,12 @@ because she knows these are my two favorite recipes of hers.
 
 ## Ingredients
 
-* ~1/2 cabbage head, cut in small pieces or shredded
+* ~1/2 cabbage head, chopped or shredded
 * ~2 branches of celery, chopped
-* ~1 small onion, chopped
+* ~1 small onion, chopped or shredded
 * 1 cup mayo
 * 1/4-1/3 cup milk
-* 2 tbsp cup vinegar
+* 2 tbsp cup white vinegar
 * 1/2 cup sugar
 * 1/4 tsp salt
 * 1/8 tsp pepper

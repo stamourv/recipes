@@ -1,7 +1,7 @@
 # Apple Croustade (AKA Crumble)
 
 Great dessert. I'm not a dessert person, yet I make it every apple season.
-Always appreciated at potlucks and parties.
+Always a hit at potlucks and parties.
 Has a cult following. Seriously.
 
 ## Ingredients
@@ -31,13 +31,14 @@ Crust:
 * Spread the crust over the fruit filling.
 * Cook 30 mins.
 
-## Notes
+## Variants
 
-* Works with other kinds of fruit, too. At various points, also used
-  canned pears or peaches, in addition to or instead of apples. Even did
-  banana slices once.
+* Works with other kinds of fruit, too. At various points, I tried
+  canned pears or peaches, in addition to or instead of apples. Pears
+  in particular give a mellower, less tart flavor than apples. Even did
+  banana slices once. All of these worked great.
 * For even more crust, can do 1 cup each of flour and oats. A bit more
-  brown sugar can help.
+  brown sugar can help too.
 
 ## Source
 
