@@ -5,7 +5,7 @@ Hearty enough to make a light meal on its own, but best as a starter.
 
 ## Ingredients
 
-* 1 cup split peas (yellow is what I get)
+* 1 cup (yellow) split peas
 * 1 onion, chopped
 * ~2 carrots, chopped
 * ~2 branches of celery, chopped
@@ -13,8 +13,7 @@ Hearty enough to make a light meal on its own, but best as a starter.
 * 4 tsp olive oil
 * 1 tsp oregano
 * 2-3 bay leaves
-* 3 cups chicken stock
-* 1 cup water
+* 4 cups chicken stock
 * salt to taste
 * pepper to taste
 
@@ -28,13 +27,17 @@ Hearty enough to make a light meal on its own, but best as a starter.
 * Add the peas, stock, water, salt, and pepper.
 * Bring to a boil, then reduce heat.
 * Let simmer uncovered for 1 hr, until peas are tender.
-* Adjust texture if need be either by adding water, or letting liquid boil off.
+* Adjust texture if need be either by adding water, or letting liquid
+  boil off.
 
 ## Notes
 
 * Apparently can be frozen, but I haven't tried.
-* Can replace some of the onion with leek.
-* Can substitute oregano with savory.
+
+## Variants
+
+* Can replace some of the onion with leek; original recipe used 50-50.
+* Can substitute oregano with savory; original recipe did.
 * To make heartier, can add some ham or ham bones. Then with some nice
   bread, becomes a decent light meal.
 
