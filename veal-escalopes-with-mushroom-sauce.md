@@ -49,7 +49,7 @@ Great for a slightly fancier dinner.
 ## Notes
 
 * Serve the escalopes with the sauce, ideally with some sides (green beans
-  are good).
+  are good, ideally with a bit of lemon juice).
 * Can substitute very thin steak for the veal.
 * Can add oregano or french fried onions to the breadcrumbs.
 
