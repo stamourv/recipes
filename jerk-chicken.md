@@ -38,9 +38,9 @@ Great to bring to barbecues.
   to find, and also MUCH hotter than jalapeños.
 * For a vegetarian version, excellent with portobellos. 4 per recipe.
   Goes great with halloumi cheese for a bit of extra protein.
-* Some recipes add lime juice, or cinnamon, or black pepper, etc.
-* Could use a different, more flavorful vinegar. But with so much other
-  flavors going on, not sure it would be noticeable.
+* Could use a different, more flavorful vinegar, or lemon or lime juice.
+  But with so much other flavors going on, not sure it would be noticeable.
+* Some recipes add cinnamon, or black pepper, etc.
 
 ## Source
 
