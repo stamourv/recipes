@@ -33,11 +33,14 @@ spaghetti.
 ## Notes
 
 * Makes enough for two full lasagnas.
-* Freezes really well.
-* Could add mushrooms, or carrots.
+* Freezes really well. Always worth having in the freezer.
 * Can also put the raw meat in the pot, at the same time as the tomatoes
   and everything, rather than browning it first. Just be sure to stir a
   lot to avoid clumps.
+
+## Variants
+
+* Can add mushrooms, or carrots.
 
 ## Source
 

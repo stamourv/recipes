@@ -16,7 +16,7 @@ Makes four modest servings (or three solid ones).
 * 1 tsp oregano
 * 1 tsp basil
 * 1 tsp thyme
-* 1/4 tsp red pepper flakes (optional)
+* 1/4 tsp red pepper flakes (optional, but nice)
 * 1 28 oz can crushed tomatoes OR 1 28 oz can diced tomatoes, blended a little
 * 1 8 oz can tomato sauce
 * 1/2 cup heavy cream
@@ -50,12 +50,19 @@ Makes four modest servings (or three solid ones).
 
 ## Notes
 
+* An 8oz container of fresh mozzarella, a 14oz can of tomato sauce, and a
+  large broccoli (or two small ones) makes for two recipes. So I
+  usually cook two batches back to back.
+* The original recipe puts the garlic in the breadcrumbs. I find that too
+  much trouble, so I just add it to the sauce.
+
+## Variants
+
 * Could add some pancetta or bacon for a non-vegerarian version.
-* Another non-vegetarian option is to add anchovies to the sauce. A couple of
-  fillets adds some depth to the sauce. Careful not to overdo it, though, to
-  not end up with a fishy-tasting sauce.
-* An 8oz container of fresh mozzarella, and a large broccoli (or two small
-  ones) makes for two recipes. So I usually do two batches back to back.
+* Another non-vegetarian option is to add anchovies to the sauce. A
+  couple of fillets adds some depth to the sauce. Careful not to overdo
+  it, though, to not end up with a fishy-tasting sauce.
+* Adding mushrooms could be nice. Adding mushrooms to anything is nice.
 
 ## Source
 
