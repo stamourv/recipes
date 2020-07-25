@@ -26,7 +26,7 @@ Especially nice during the winter.
 * Put the vegetables in, celery and carrots last (easiest to move later).
 * Put the meat on top. May need to move some vegetables to the side of
   the meat, to get everything to fit.
-* Add broth to cover everything.
+* Add enough broth to cover everything.
 * Cook 5-6 hours on high, or 10-12 hours on low.
 
 ## Variants
