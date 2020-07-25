@@ -28,14 +28,21 @@ or something.
 
 * Fills my rice cooker completely. More would make a mess. You may want
   to adapt for different-sized rice cookers.
-* Any seasoning could work, really. Adding some tomato paste and umami
-  seasoning both work well.
-* In theory, adding other vegetables could be nice. I've tried green
-  beans, corn, and sliced black olives. None of these are as good as
-  plain tomatoes. YMMV.
 * I've read about people starting by heating the oil in the bottom of
   the rice cooker first, then browning the garlic, then adding the rest
   of the ingredients. That sounds delicious and definitely worth trying.
+
+## Variants
+
+* Any kind of lentils and any kind of rice could also work. I like the
+  green lentils for the texture, but I've used red too. Jasmine rice
+  also works, but brown rice is more nutritious.
+* Any seasoning could work, really. Adding some tomato paste and umami
+  seasoning both work well.
+* Could use stock instead of water to cook the rice and lentils.
+* In theory, adding other vegetables could be nice. I've tried green
+  beans, corn, and sliced black olives. None of these are as good as
+  plain tomatoes. YMMV.
 
 ## Source
 
