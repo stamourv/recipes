@@ -4,11 +4,11 @@ Vegetarian.
 Takes a bit of work (about an hour) but well worth it.
 The sauce is much better than something pre-made, and grilled
 cheese and breadcrumbs on top is delicious.
-Makes four modest servings (or three solid ones).
+Makes four solid servings.
 
 ## Ingredients
 
-* 6 oz fusili
+* 8 oz fusili
 * 1 head of broccoli or cauliflower, cut into smallish pieces
 
 * 1 onion, diced
@@ -30,16 +30,17 @@ Makes four modest servings (or three solid ones).
 ## Directions
 
 * Preheat oven to 475F.
+* Heat a pot of salted water to a boil.
 * Do a mise en place. There's lots of things happening at once;
   you'll need it.
-* Heat a pot of salted water to a boil. Cook the fusili and broccoli
-  until the fusili are al dente (about 7-8 minutes) then drain.
+* Cook the fusili and broccoli in the boiling water until the fusili
+  are al dente (about 7-8 minutes) then drain.
 * Meanwhile, cook the garlic, onion, and herbs in a pan, with olive
   oil.
 * Once the onions are cooked, add the crushed tomatoes and tomato
   sauce. Season with salt and pepper. Simmer for about 5 minutes.
 * Then, add the cream, mix in well, and simmer for another minute.
-* Assemble the casserole: mix the pasta, broccoli, and sauce in a
+* Assemble the casserole: sauce first, then pasta and broccoli in a
   casserole dish.
 * Top the casserole with panko breadcrumbs. You want a lot.
 * Tear the mozzarella into small pieces and spread on the top.
@@ -63,6 +64,8 @@ Makes four modest servings (or three solid ones).
   couple of fillets adds some depth to the sauce. Careful not to overdo
   it, though, to not end up with a fishy-tasting sauce.
 * Adding mushrooms could be nice. Adding mushrooms to anything is nice.
+* Plain yogurt can substitute for the cream in a pinch. Just be sure to
+  stir it in well; it's not as fluid as cream, and can get lumpy.
 
 ## Source
 
