@@ -14,8 +14,8 @@ or something.
 * 2 cups water
 * 1 14 oz can diced tomatoes
 * minced garlic to taste (lots)
-* 1 tsp salt
-* 1-2 tbsp olive oil
+* 2 tsp (kosher) salt
+* 2 tbsp olive oil
 * ~2 tsp seasoning (I like Trader Joe's 21 Seasoning Salute)
 
 ## Directions
@@ -23,11 +23,16 @@ or something.
 * Put everything in the rice cooker. Putting rice and lentils last makes
   it easier to stir things well.
 * Turn the rice cooker on. Wait until it's done. That's it.
+  In mine, it takes about an hour.
 
 ## Notes
 
 * Fills my rice cooker completely. More would make a mess. You may want
   to adapt for different-sized rice cookers.
+* In my rice cooker, at least, this takes a lot longer than the
+  equivalent amount of rice. It could be that I'm adding too much water
+  here. More experimentation is needed, but this version is fine; it
+  just takes a while (but that's passive time).
 * I've read about people starting by heating the oil in the bottom of
   the rice cooker first, then browning the garlic, then adding the rest
   of the ingredients. That sounds delicious and definitely worth trying.
@@ -38,7 +43,8 @@ or something.
   green lentils for the texture, but I've used red too. Jasmine rice
   also works, but brown rice is more nutritious.
 * Any seasoning could work, really. Adding some tomato paste and umami
-  seasoning both work well.
+  seasoning both work well. Oregano plus umami seasoning gives a nice
+  italian-ish flavor.
 * Could use stock instead of water to cook the rice and lentils.
 * In theory, adding other vegetables could be nice. I've tried green
   beans, corn, and sliced black olives. None of these are as good as
