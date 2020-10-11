@@ -1,54 +1,63 @@
 # Chili
 
-Can be made vegetarian, with barely any noticeable difference.
-I usually make it vegetarian, actually.
-Freezes well.
+Rich, savory, and smoky chili, with just a bit of a kick.
+Packs so much flavor that I usually make it vegetarian; any meat that
+goes in there would be overpowered anyway.
+Makes 5-6 portions, and freezes well.
 
 ## Ingredients
 
-* 1 pack Trader Joe's "beefless ground beef"
-* 2 cans kidney beans, rinsed and drained
+* 1 (12oz) pack Trader Joe's "beefless ground beef"
+* 2 cans black beans, rinsed and drained
 * 2 14.5 oz cans diced tomatoes, undrained
-* 1 8 oz can tomato sauce
-* 2 onions, chopped
-* 1 green pepper, chopped
-* hot peppers. I usually add 1-2 jalapeños
-* minced garlic
-* 2 tsp salt
-* 1 tsp pepper
-* 2 tbsp chili powder (I like Badia's) OR the following
-* 1 tbsp (smoked) paprika
+* ~1 tbsp tomato paste
+* 2 tbsp olive oil
+* 1-2 onions, chopped
+* chopped hot peppers. 1-2 jalapeños or ~5 dried thai chilies are good
+* 3-4 cloves minced garlic
+* juice of 1 lime
+
+* 2 tbsp chili powder (I like Badia's)
+* 1 tbsp brown sugar
+* 1 tbsp smoked paprika
+* 2 tsp (kosher) salt
 * 1 tsp oregano
 * 1 tsp cumin
-* 1/2 tsp garlic powder
-* 1/2 tsp onion powder
+* 1 tsp pepper
+* 1 tsp umami seasoning
 
 ## Directions
 
-* Cook ground beef in a skillet until no longer pink, or otherwise
-  prepare your protein of choice.
 * Put everything in the crock pot. Stir.
 * Cook for 8-10 hours on low, or 4 hours on high.
 
 ## Notes
 
-* The ground beef replacement (seasoned TVP?) works really well here!
-  There's enough flavor, and with a slow cook, it gets really tasty.
-  Could even add some umami seasoning to make it even closer to beef.
+* Topping with cilantro, or even green onion, gives a nice freshness.
+  So if you have some around, great place to use it up. If you don't,
+  no big deal.
+
+* Topping with grated parmesan, for some extra saltiness and umami,
+  is also nice. Pepper jack or cheddar may be more fitting, and would
+  probably work too.
+
+* Topping with some crackers, or tortilla chips, makes for a mix of
+  textures, which is nice. But not essential.
 
 ## Variants
 
 * This recipe is pretty flexible on the protein; there's enough flavors
   from the rest. The original version used 2lb ground beef, which is
-  good. But 1lb may be enough. Rehydrated TVP could also possibly work.
-  I once tried going with extra beans (28oz black beans) but the result
-  was too soupy.
+  good, but 1lb is enough. With ground beef, you'll want to brown it
+  before mixing it in, and skip the extra oil (the fat from the meat
+  is enough). Straight rehydrated TVP (rather than some pre-seasoned
+  mix) could also possibly work but you may want to add some umami
+  seasoning, amoong other things.
 
-* Could try with some brown sugar or molasses.
+* Adding in some cornmeal could give a different, thicker texture if
+  that's your thing.
 
 ## Source
 
-Originally based on [this recipe](http://allrecipes.com/Recipe/slow-cooked-chili/detail.aspx)
-but much embellished, and made vegetarian.
-
-Chili powder adapted from [this one](https://www.allrecipes.com/recipe/237172/chili-powder/).
+Originally based on a variety of online sources, but mutated beyond
+recognition.
