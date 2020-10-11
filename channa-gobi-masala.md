@@ -10,11 +10,11 @@ Serve with rice.
 
 * 2 tbsp garam masala
 * 1 tsp smoked paprika
-* 1 tsp salt
+* 2 tsp (kosher) salt
 * 1/2 tsp cumin
-* 1/2 turmeric
-* 1/4 ground ginger
-* 1-2 dried thai chili
+* 1/2 tsp turmeric
+* 2 cubes frozen ginger (or ~2 tbsp fresh ginger)
+* 2 dried thai chilies
 * pepper
 
 * 1 onion, diced
